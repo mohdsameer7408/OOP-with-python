@@ -13,4 +13,3 @@ class Car:
 c = Car(300)
 c.set_speed(200)
 print(c.get_speed())
-# hey
